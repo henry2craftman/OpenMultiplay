@@ -45,7 +45,7 @@ Unity 엔진을 사용하여 개발된 TCP 기반 멀티플레이 슈팅 게임 
 ## 🎥 데모 비디오
 
 ### 연결 및 제어
-[https://www.youtube.com/watch?v=xQezJzxhmZA](https://www.youtube.com/watch?v=xQezJzxhmZA)
+[![연결 및 제어](https://img.youtube.com/vi/xQezJzxhmZA/0.jpg)](https://www.youtube.com/watch?v=xQezJzxhmZA)
 
 ### 접속 해지
-[https://www.youtube.com/watch?v=TLW6FBek_uI](https://www.youtube.com/watch?v=TLW6FBek_uI)
+[![접속 해지](https://img.youtube.com/vi/TLW6FBek_uI/0.jpg)](https://www.youtube.com/watch?v=TLW6FBek_uI)
